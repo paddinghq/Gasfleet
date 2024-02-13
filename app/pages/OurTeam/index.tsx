@@ -1,11 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const OurTeam = () => {
-  return (
-    <div>
-      Our Team page
-    </div>
-  )
-}
+  return <div>Our Team page</div>;
+};
 
-export default OurTeam
+export default OurTeam;

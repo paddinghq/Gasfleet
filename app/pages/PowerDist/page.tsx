@@ -1,7 +1,7 @@
-import PowerDist from '.'
+import PowerDist from '.';
 
 const page = () => {
-  return <PowerDist />
-}
+  return <PowerDist />;
+};
 
-export default page
+export default page;

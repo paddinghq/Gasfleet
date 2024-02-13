@@ -1,7 +1,7 @@
-import Homepage from '.'
+import Homepage from '.';
 
 const page = () => {
-  return <Homepage />
-}
+  return <Homepage />;
+};
 
-export default page
+export default page;

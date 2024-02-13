@@ -1,7 +1,7 @@
-import ECPM from '.'
+import ECPM from '.';
 
 const page = () => {
-  return <ECPM />
-}
+  return <ECPM />;
+};
 
-export default page
+export default page;

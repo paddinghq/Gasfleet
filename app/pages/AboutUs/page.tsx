@@ -1,7 +1,7 @@
-import AboutUs from '.'
+import AboutUs from '.';
 
 const page = () => {
-  return <AboutUs />
-}
+  return <AboutUs />;
+};
 
-export default page
+export default page;

@@ -1,7 +1,7 @@
-import SingleProject from '.'
+import SingleProject from '.';
 
 const page = () => {
-  return <SingleProject />
-}
+  return <SingleProject />;
+};
 
-export default page
+export default page;

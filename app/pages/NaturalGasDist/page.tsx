@@ -1,7 +1,7 @@
-import NatGasDist from '.'
+import NatGasDist from '.';
 
 const page = () => {
-  return <NatGasDist />
-}
+  return <NatGasDist />;
+};
 
-export default page
+export default page;

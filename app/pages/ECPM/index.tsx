@@ -1,11 +1,11 @@
-import DiffPage from "../../../components/DiffPageSyn";
+import DiffPage from '../../../components/DiffPageSyn';
 
 const ECPM = () => {
   return (
     <div>
       <DiffPage />
     </div>
-  )
-}
+  );
+};
 
-export default ECPM
+export default ECPM;

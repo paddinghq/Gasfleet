@@ -1,7 +1,7 @@
-import Projects from '.'
+import Projects from '.';
 
 const page = () => {
-  return <Projects />
-}
+  return <Projects />;
+};
 
-export default page
+export default page;

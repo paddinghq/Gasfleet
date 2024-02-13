@@ -1,7 +1,7 @@
-import OurTeam from '.'
+import OurTeam from '.';
 
 const page = () => {
-  return <OurTeam />
-}
+  return <OurTeam />;
+};
 
-export default page
+export default page;
