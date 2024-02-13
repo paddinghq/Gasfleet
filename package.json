@@ -7,6 +7,7 @@
     "build": "next build",
     "start": "next start",
     "prettier": "prettier --write './app/**/*.{ts,tsx,js,jsx}'",
+    "prettier:check": "prettier --check './app/**/*.{ts,tsx,js,jsx}'",
     "lint": "next lint"
   },
   "dependencies": {
