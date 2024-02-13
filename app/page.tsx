@@ -1,10 +1,10 @@
-import Image from "next/image";
-import { Button } from "@/components/ui/button";
+import Image from 'next/image';
+import { Button } from '@/components/ui/button';
 
 const Home = () => {
   return (
     <div>
-      <Button>Click me</Button>
+      <Button>I'm hungry</Button>
       <Image
         src="/vercel.svg"
         alt="Vercel Logo"
